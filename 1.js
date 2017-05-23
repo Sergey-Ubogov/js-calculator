@@ -1,7 +1,5 @@
 'use strict';
- 
-var fs = require('fs');
- 
+
 function calculate(func, num) {
     if (!func) {
         return num;
