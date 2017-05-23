@@ -1,2 +1,1 @@
-# js-calculator
-Калькулятор словами: one(plus(two()))
+Калькулятор словами на js. Пример: one(plus(two()))
